@@ -1,12 +1,16 @@
 {
   "name": "math-a-magics",
   "version": "1.0.0",
+  "main": "src/index.js",
   "description": "NPM Package: A Magical Collection of Basic Math Functions",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["math", "calculate", "solve", "sum", "subtract", "divide", "multiply"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aahmedfaraz/basic-math-functions.git"
+  },
+  "author": "Ahmed Faraz",
   "license": "ISC"
 }
