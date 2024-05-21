@@ -1,7 +1,8 @@
 {
   "name": "math-a-magics",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "main": "src/index.js",
+  "types": "types/index.d.ts",
   "description": "NPM Package: A Magical Collection of Basic Math Functions",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

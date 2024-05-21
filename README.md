@@ -23,6 +23,19 @@ console.log(multiply(4, 3)); // 12
 console.log(divide(10, 2)); // 5
 ```
 
+## Usage with TypeScript
+
+math-a-magics includes TypeScript type definitions. You can use the package in your TypeScript projects seamlessly.
+
+```typescript
+import { add, subtract, multiply, divide } from 'math-a-magics';
+
+console.log(add(2, 3)); // 5
+console.log(subtract(5, 2)); // 3
+console.log(multiply(4, 3)); // 12
+console.log(divide(10, 2)); // 5
+```
+
 ## Functions
 
 ### `add(a, b)`
